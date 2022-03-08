@@ -1,4 +1,4 @@
-module  github.com/aleinad25/db-connection-gorm-go
+module github.com/aleinad25/db-connection-gorm-go
 
 go 1.16
 
