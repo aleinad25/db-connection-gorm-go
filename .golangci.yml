@@ -145,7 +145,7 @@ run:
 # golangci.com configuration
 # https://github.com/golangci/golangci/wiki/Configuration
 service:
-  project-path: db-connection-gorm-go
+  project-path: db-sql-connection-gorm-go
   analyzed-paths:
     - ./...
   golangci-lint-version: 1.41.0
